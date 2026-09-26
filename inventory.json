@@ -1,7 +1,7 @@
 {
   "dealership": "Mainland Ford Ltd",
-  "generated_at": "2026-09-26T15:22:03",
-  "vehicle_count": 22,
+  "generated_at": "2026-09-26T15:27:49",
+  "vehicle_count": 23,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -127,6 +127,29 @@
       "condition": "used"
     },
     {
+      "name": "New2026FordExplorerST-Line",
+      "vin": "1FMUK8KH3TGB66596",
+      "stock": "26EX659",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/89cda90aa15c.html",
+      "source_url": "https://www.mainlandford.com/inventory/2026-ford-explorer-st-line-v8Znuy6qQXiD5ShUrLki7Qvdp",
+      "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-explorer-st-line-v8Znuy6qQXiD5ShUrLki7Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T15:25:37",
+      "odometer_km": 16000,
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L8XTFB63313",
+      "stock": "26F1331",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/179223820730.html",
+      "source_url": "https://www.mainlandford.com/inventory/2026-ford-f-150-lariat-4EYf772qSomOJ2iJeTjJSgvdp",
+      "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-f-150-lariat-4EYf772qSomOJ2iJeTjJSgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T15:25:49",
+      "condition": "new"
+    },
+    {
       "name": "New2026FordF-150Lariat",
       "vin": "1FTFW5L58TFC16872",
       "stock": "26F1687",
@@ -134,7 +157,7 @@
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/070e5bcb0291.html",
       "source_url": "https://www.mainlandford.com/inventory/2026-ford-f-150-lariat-8T6a4nr8S6qZtVgc3nM7lgvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-f-150-lariat-8T6a4nr8S6qZtVgc3nM7lgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:22:30",
+      "last_verified": "2026-09-26T15:26:01",
       "condition": "new"
     },
     {
@@ -145,7 +168,7 @@
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/c562b5c826f3.html",
       "source_url": "https://www.mainlandford.com/inventory/2026-ford-f-150-stx-IFXvB5WbS7WR68BT9xYZqAvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-f-150-stx-IFXvB5WbS7WR68BT9xYZqAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:22:41",
+      "last_verified": "2026-09-26T15:26:14",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -157,7 +180,7 @@
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/3b8bf110fdd0.html",
       "source_url": "https://www.mainlandford.com/inventory/2026-ford-f-150-stx-JykS7q1VRziyyfdRwN3j5gvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-f-150-stx-JykS7q1VRziyyfdRwN3j5gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:22:52",
+      "last_verified": "2026-09-26T15:26:26",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -169,7 +192,7 @@
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/ec08755411f6.html",
       "source_url": "https://www.mainlandford.com/inventory/2026-ford-f-150-xlt-42cQLvJlQDqNzC0ZnWcigQvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-f-150-xlt-42cQLvJlQDqNzC0ZnWcigQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:23:03",
+      "last_verified": "2026-09-26T15:26:38",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -181,7 +204,7 @@
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/6c32b57e7fa9.html",
       "source_url": "https://www.mainlandford.com/inventory/2026-ford-f-150-xlt-4D4mO8k2QRWfqksoURKkWAvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-f-150-xlt-4D4mO8k2QRWfqksoURKkWAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:23:14",
+      "last_verified": "2026-09-26T15:26:47",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -205,7 +228,7 @@
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/e3346ffd26a5.html",
       "source_url": "https://www.mainlandford.com/inventory/2026-ford-maverick-lariat-tWTRWOCcRM2daxBZ9qUpbQvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-maverick-lariat-tWTRWOCcRM2daxBZ9qUpbQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:23:40",
+      "last_verified": "2026-09-26T15:27:09",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -217,7 +240,8 @@
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/1039af26aba7.html",
       "source_url": "https://www.mainlandford.com/inventory/2026-ford-maverick-xlt-9qk8saznQXymhV5j3ACVJQvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-maverick-xlt-9qk8saznQXymhV5j3ACVJQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:23:50",
+      "last_verified": "2026-09-26T15:27:20",
+      "odometer_km": 16000,
       "condition": "new"
     },
     {
@@ -228,7 +252,7 @@
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/311b715bbaf9.html",
       "source_url": "https://www.mainlandford.com/inventory/2026-ford-maverick-xlt-EEhfcSqrTCa5u8NLKSmTjgvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-maverick-xlt-EEhfcSqrTCa5u8NLKSmTjgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:24:02",
+      "last_verified": "2026-09-26T15:27:33",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -240,19 +264,7 @@
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/27e749e59335.html",
       "source_url": "https://www.mainlandford.com/inventory/2026-ford-maverick-xlt-Y7y2Qfr5R7WG3lR0PC6UhAvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-maverick-xlt-Y7y2Qfr5R7WG3lR0PC6UhAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:24:14",
-      "odometer_km": 16000,
-      "condition": "new"
-    },
-    {
-      "name": "New2026FordMustang Mach-EPremium",
-      "vin": "3FMTK3SU1TMA24703",
-      "stock": "26ME470",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/f6eec29372e1.html",
-      "source_url": "https://www.mainlandford.com/inventory/2026-ford-mustang-mach-e-premium-jVQiBFADRqaW5wIYIiS3PQvdp",
-      "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-mustang-mach-e-premium-jVQiBFADRqaW5wIYIiS3PQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T15:24:25",
+      "last_verified": "2026-09-26T15:27:45",
       "odometer_km": 16000,
       "condition": "new"
     }
