@@ -1,6 +1,6 @@
 {
   "dealership": "Mainland Ford Ltd",
-  "generated_at": "2026-09-26T15:27:49",
+  "generated_at": "2026-10-08T14:41:39",
   "vehicle_count": 23,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -14,7 +14,9 @@
       "source_url": "https://www.mainlandford.com/inventory/2017-nissan-rogue-s-OLnX0WvXQ8q9BG3uKa0Cdwvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2017-nissan-rogue-s-OLnX0WvXQ8q9BG3uKa0Cdwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:21:33",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "Used2019Ram1500Rebel",
@@ -25,7 +27,9 @@
       "source_url": "https://www.mainlandford.com/inventory/2019-ram-1500-rebel-XxoVz75tQ3GhjAxu5hfWUQvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2019-ram-1500-rebel-XxoVz75tQ3GhjAxu5hfWUQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:21:46",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "Used2020FordF-150XLT",
@@ -36,7 +40,9 @@
       "source_url": "https://www.mainlandford.com/inventory/2020-ford-f-150-xlt-kgmH0iSSRw6NySZYoj57sQvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2020-ford-f-150-xlt-kgmH0iSSRw6NySZYoj57sQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:20:01",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "Used2021FordF-150XLT",
@@ -47,7 +53,9 @@
       "source_url": "https://www.mainlandford.com/inventory/2021-ford-f-150-xlt-BfN3AKXdTLOMSUVgooxtMQvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2021-ford-f-150-xlt-BfN3AKXdTLOMSUVgooxtMQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:20:13",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "Used2021FordF-150XLT",
@@ -58,7 +66,9 @@
       "source_url": "https://www.mainlandford.com/inventory/2021-ford-f-150-xlt-F32PIBF1TZ6hCpLM4C7rcQvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2021-ford-f-150-xlt-F32PIBF1TZ6hCpLM4C7rcQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:20:23",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "Used2021FordF-150XLT",
@@ -69,7 +79,9 @@
       "source_url": "https://www.mainlandford.com/inventory/2021-ford-f-150-xlt-qIqpL7u0QMOxk76OH194mAvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2021-ford-f-150-xlt-qIqpL7u0QMOxk76OH194mAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:20:37",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "Used2022Ram3500Laramie",
@@ -80,7 +92,9 @@
       "source_url": "https://www.mainlandford.com/inventory/2022-ram-3500-laramie-yI9v93JRTIqI7rrG6khXrgvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2022-ram-3500-laramie-yI9v93JRTIqI7rrG6khXrgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:21:58",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "Used2023FordF-150XLT",
@@ -91,7 +105,9 @@
       "source_url": "https://www.mainlandford.com/inventory/2023-ford-f-150-xlt-eu8VecYQQnejghm0aOFYQwvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2023-ford-f-150-xlt-eu8VecYQQnejghm0aOFYQwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:20:47",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "Used2023FordF-150XLT",
@@ -102,7 +118,9 @@
       "source_url": "https://www.mainlandford.com/inventory/2023-ford-f-150-xlt-g3BohSMQRq6Go0n8tfCMZwvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2023-ford-f-150-xlt-g3BohSMQRq6Go0n8tfCMZwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:20:57",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "Used2023HondaCR-VLX",
@@ -113,7 +131,9 @@
       "source_url": "https://www.mainlandford.com/inventory/2023-honda-cr-v-lx-KBzPiFpkS5GTIDkjqXAbGwvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2023-honda-cr-v-lx-KBzPiFpkS5GTIDkjqXAbGwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:21:07",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "Used2025FordSuper Duty F-350 SRWPlatinum",
@@ -124,7 +144,9 @@
       "source_url": "https://www.mainlandford.com/inventory/2025-ford-super-duty-f-350-srw-platinum-ny4fxZL4SKmLqLpgbqULzQvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2025-ford-super-duty-f-350-srw-platinum-ny4fxZL4SKmLqLpgbqULzQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:21:21",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026FordExplorerST-Line",
@@ -136,7 +158,9 @@
       "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-explorer-st-line-v8Znuy6qQXiD5ShUrLki7Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:25:37",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Lariat",
@@ -147,7 +171,9 @@
       "source_url": "https://www.mainlandford.com/inventory/2026-ford-f-150-lariat-4EYf772qSomOJ2iJeTjJSgvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-f-150-lariat-4EYf772qSomOJ2iJeTjJSgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:25:49",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150Lariat",
@@ -158,7 +184,9 @@
       "source_url": "https://www.mainlandford.com/inventory/2026-ford-f-150-lariat-8T6a4nr8S6qZtVgc3nM7lgvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-f-150-lariat-8T6a4nr8S6qZtVgc3nM7lgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:26:01",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150STX",
@@ -170,7 +198,9 @@
       "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-f-150-stx-IFXvB5WbS7WR68BT9xYZqAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:26:14",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150STX",
@@ -182,7 +212,9 @@
       "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-f-150-stx-JykS7q1VRziyyfdRwN3j5gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:26:26",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -194,7 +226,9 @@
       "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-f-150-xlt-42cQLvJlQDqNzC0ZnWcigQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:26:38",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -206,7 +240,9 @@
       "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-f-150-xlt-4D4mO8k2QRWfqksoURKkWAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:26:47",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -218,7 +254,9 @@
       "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-f-150-xlt-i0mBSdfHSWKcWRNN8fVS7wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T15:23:27",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026FordMaverickLARIAT",
@@ -230,7 +268,9 @@
       "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-maverick-lariat-tWTRWOCcRM2daxBZ9qUpbQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:27:09",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026FordMaverickXLT",
@@ -242,7 +282,9 @@
       "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-maverick-xlt-9qk8saznQXymhV5j3ACVJQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:27:20",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026FordMaverickXLT",
@@ -254,7 +296,9 @@
       "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-maverick-xlt-EEhfcSqrTCa5u8NLKSmTjgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:27:33",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026FordMaverickXLT",
@@ -266,7 +310,9 @@
       "dealer_url": "https://www.mainlandford.com/inventory/2026-ford-maverick-xlt-Y7y2Qfr5R7WG3lR0PC6UhAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:27:45",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     }
   ]
 }
