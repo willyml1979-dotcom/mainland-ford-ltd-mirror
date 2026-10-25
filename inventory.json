@@ -1,7 +1,7 @@
 {
   "dealership": "Mainland Ford Ltd",
-  "generated_at": "2026-10-22T16:13:53",
-  "vehicle_count": 61,
+  "generated_at": "2026-10-24T21:50:21",
+  "vehicle_count": 66,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -13,7 +13,7 @@
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/d347d2c3f8ea.html",
       "source_url": "https://www.mainlandford.com/inventory/2012-audi-q7-3-0l-sport-rtuWA0y2QUOZxwGZU9XnNAvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2012-audi-q7-3-0l-sport-rtuWA0y2QUOZxwGZU9XnNAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T16:03:45",
+      "last_verified": "2026-10-24T21:49:30",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -26,7 +26,7 @@
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/f0a0ec1cbc24.html",
       "source_url": "https://www.mainlandford.com/inventory/2014-ford-f-150-xlt-PBGeSVRoTNuMhENG0Slztwvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2014-ford-f-150-xlt-PBGeSVRoTNuMhENG0Slztwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T16:03:58",
+      "last_verified": "2026-10-24T21:49:40",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -39,7 +39,7 @@
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/5b9162d15645.html",
       "source_url": "https://www.mainlandford.com/inventory/2015-kia-soul-ex-a8yxfAWWSHWdShnPrxJclgvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2015-kia-soul-ex-a8yxfAWWSHWdShnPrxJclgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T16:04:39",
+      "last_verified": "2026-10-24T21:50:06",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -52,7 +52,7 @@
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/65d9f6d90eaf.html",
       "source_url": "https://www.mainlandford.com/inventory/2017-ford-explorer-platinum-tZE4yEDbTfKUFxdVfgirlQvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2017-ford-explorer-platinum-tZE4yEDbTfKUFxdVfgirlQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T16:04:50",
+      "last_verified": "2026-10-24T21:50:17",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -65,7 +65,7 @@
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/afdd5e062c09.html",
       "source_url": "https://www.mainlandford.com/inventory/2017-nissan-rogue-s-OLnX0WvXQ8q9BG3uKa0Cdwvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2017-nissan-rogue-s-OLnX0WvXQ8q9BG3uKa0Cdwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T16:03:12",
+      "last_verified": "2026-10-24T21:48:54",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -78,7 +78,7 @@
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/cde3f71a0c72.html",
       "source_url": "https://www.mainlandford.com/inventory/2019-ram-1500-rebel-XxoVz75tQ3GhjAxu5hfWUQvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2019-ram-1500-rebel-XxoVz75tQ3GhjAxu5hfWUQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T16:03:22",
+      "last_verified": "2026-10-24T21:49:04",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -130,7 +130,7 @@
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/23d96436c35d.html",
       "source_url": "https://www.mainlandford.com/inventory/2020-ford-super-duty-f-350-srw-xlt-tf6dhON3Rr6OVduWp5ROXAvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2020-ford-super-duty-f-350-srw-xlt-tf6dhON3Rr6OVduWp5ROXAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T16:02:38",
+      "last_verified": "2026-10-24T21:48:18",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -138,12 +138,12 @@
     {
       "name": "Used2020Mercedes-BenzGLS450",
       "vin": "4JGFF5KE0LA123810",
-      "stock": "P3810",
+      "stock": "P84979A",
       "color": "White",
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/a33c022590b2.html",
       "source_url": "https://www.mainlandford.com/inventory/2020-mercedes-benz-gls-gls-450-ErljXXCwTs2TvtWS9LzdKgvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2020-mercedes-benz-gls-gls-450-ErljXXCwTs2TvtWS9LzdKgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T16:04:10",
+      "last_verified": "2026-10-24T21:49:51",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -201,6 +201,19 @@
       "province": "BC"
     },
     {
+      "name": "Used2022FordF-150XLT",
+      "vin": "1FTFW1E87NKF18731",
+      "stock": "P8731",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/744949ff88b8.html",
+      "source_url": "https://www.mainlandford.com/inventory/2022-ford-f-150-xlt-xzuJkIszQjqspAcUIF1a4wvdp",
+      "dealer_url": "https://www.mainlandford.com/inventory/2022-ford-f-150-xlt-xzuJkIszQjqspAcUIF1a4wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-24T21:46:38",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
       "name": "Used2022Ram3500Laramie",
       "vin": "3C63R3EL2NG334130",
       "stock": "26F1889",
@@ -208,7 +221,7 @@
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/220fd5dc35fa.html",
       "source_url": "https://www.mainlandford.com/inventory/2022-ram-3500-laramie-yI9v93JRTIqI7rrG6khXrgvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2022-ram-3500-laramie-yI9v93JRTIqI7rrG6khXrgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T16:03:32",
+      "last_verified": "2026-10-24T21:49:18",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -228,13 +241,26 @@
     },
     {
       "name": "Used2023FordF-150XLT",
+      "vin": "1FTFW1E80PKE40232",
+      "stock": "P0232",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/9df7a33d946a.html",
+      "source_url": "https://www.mainlandford.com/inventory/2023-ford-f-150-xlt-Q3e1HYZfRA6759DOf3nAQwvdp",
+      "dealer_url": "https://www.mainlandford.com/inventory/2023-ford-f-150-xlt-Q3e1HYZfRA6759DOf3nAQwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-24T21:46:51",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "Used2023FordF-150XLT",
       "vin": "1FTFW1E88PFB09505",
       "stock": "P9505",
       "color": "White",
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/863bda7d6c1f.html",
       "source_url": "https://www.mainlandford.com/inventory/2023-ford-f-150-xlt-eu8VecYQQnejghm0aOFYQwvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2023-ford-f-150-xlt-eu8VecYQQnejghm0aOFYQwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T16:00:15",
+      "last_verified": "2026-10-24T21:47:39",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -260,7 +286,20 @@
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/0cb3fd5e5244.html",
       "source_url": "https://www.mainlandford.com/inventory/2023-ford-f-150-xlt-g3BohSMQRq6Go0n8tfCMZwvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2023-ford-f-150-xlt-g3BohSMQRq6Go0n8tfCMZwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T16:07:50",
+      "last_verified": "2026-10-24T21:47:54",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "Used2023FordTransit Cargo Van",
+      "vin": "1FTBR2Y82PKB40974",
+      "stock": "P0974",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/e78ce24e52ad.html",
+      "source_url": "https://www.mainlandford.com/inventory/2023-ford-transit-cargo-van-Mo1TGJlhSBC685OJ9rdNVAvdp",
+      "dealer_url": "https://www.mainlandford.com/inventory/2023-ford-transit-cargo-van-Mo1TGJlhSBC685OJ9rdNVAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-24T21:47:03",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -273,7 +312,7 @@
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/66d3acc0c62a.html",
       "source_url": "https://www.mainlandford.com/inventory/2023-honda-cr-v-lx-KBzPiFpkS5GTIDkjqXAbGwvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2023-honda-cr-v-lx-KBzPiFpkS5GTIDkjqXAbGwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T16:08:02",
+      "last_verified": "2026-10-24T21:48:06",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -299,7 +338,20 @@
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/ee8a1358dc28.html",
       "source_url": "https://www.mainlandford.com/inventory/2024-ford-expedition-platinum-max-WZ18NNo1RCahRYcSThwkgAvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2024-ford-expedition-platinum-max-WZ18NNo1RCahRYcSThwkgAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T16:02:48",
+      "last_verified": "2026-10-24T21:48:31",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "Used2024FordF-150Lariat",
+      "vin": "1FTFW5LD0RFB60040",
+      "stock": "P60040",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/9e9ba7087eaf.html",
+      "source_url": "https://www.mainlandford.com/inventory/2024-ford-f-150-lariat-iImMUsVnRVmgWpJAK56x2Qvdp",
+      "dealer_url": "https://www.mainlandford.com/inventory/2024-ford-f-150-lariat-iImMUsVnRVmgWpJAK56x2Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-24T21:47:15",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -313,6 +365,19 @@
       "source_url": "https://www.mainlandford.com/inventory/2024-ford-f-150-stx-m6MOWvFVTLmVzgjVNbAQKwvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2024-ford-f-150-stx-m6MOWvFVTLmVzgjVNbAQKwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-21T16:04:24",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "Used2024GMCYukonDenali",
+      "vin": "1GKS2DKT4RR289222",
+      "stock": "26F1083",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/3b640e12866e.html",
+      "source_url": "https://www.mainlandford.com/inventory/2024-gmc-yukon-denali-O6QKLdWjRSuqatAKxDDghQvdp",
+      "dealer_url": "https://www.mainlandford.com/inventory/2024-gmc-yukon-denali-O6QKLdWjRSuqatAKxDDghQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-24T21:47:28",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -338,7 +403,7 @@
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/fa2edbcbb02f.html",
       "source_url": "https://www.mainlandford.com/inventory/2025-ford-super-duty-f-350-srw-platinum-ny4fxZL4SKmLqLpgbqULzQvdp",
       "dealer_url": "https://www.mainlandford.com/inventory/2025-ford-super-duty-f-350-srw-platinum-ny4fxZL4SKmLqLpgbqULzQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T16:03:00",
+      "last_verified": "2026-10-24T21:48:42",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
