@@ -1,7 +1,7 @@
 {
   "dealership": "Mainland Ford Ltd",
-  "generated_at": "2026-10-25T21:57:42",
-  "vehicle_count": 66,
+  "generated_at": "2026-11-16T16:04:12",
+  "vehicle_count": 74,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -36,6 +36,18 @@
       "condition": "used"
     },
     {
+      "name": "Used2018VolkswagenTiguanComfortline",
+      "vin": "3VV2B7AX5JM198193",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/f5bd1123e172.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2019AudiRS 3 Sedan",
+      "vin": "WUABWGFF9KA905106",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/394107770255.html",
+      "condition": "used"
+    },
+    {
       "name": "Used2019Ram1500Rebel",
       "vin": "1C6SRFLT4KN533358",
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/cde3f71a0c72.html",
@@ -66,6 +78,12 @@
       "condition": "used"
     },
     {
+      "name": "Used2020GMCSavana Cargo Van",
+      "vin": "1GTW7AFPXL1122945",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/d3500fe56b35.html",
+      "condition": "used"
+    },
+    {
       "name": "Used2020Mercedes-BenzGLS450",
       "vin": "4JGFF5KE0LA123810",
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/a33c022590b2.html",
@@ -90,9 +108,27 @@
       "condition": "used"
     },
     {
+      "name": "Used2021MazdaCX-5GT w/Turbo",
+      "vin": "JM3KFBDY4M0103521",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/33885eb8c17a.html",
+      "condition": "used"
+    },
+    {
       "name": "Used2022FordBronco SportOuter Banks",
       "vin": "3FMCR9C68NRD50910",
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/e31be17078ee.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2022FordF-150XLT",
+      "vin": "1FTFW1E87NFC20236",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/8faecf88be6a.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2022FordF-150XLT",
+      "vin": "1FTFW1E8XNKF11269",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/a56e3a04003c.html",
       "condition": "used"
     },
     {
@@ -111,6 +147,12 @@
       "name": "Used2023FordF-150Lariat",
       "vin": "1FTFW1E82PFC04948",
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/f14a54bfd889.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023FordF-150Lariat",
+      "vin": "1FTFW1E8XPFD14419",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/d9d62bb0dc89.html",
       "condition": "used"
     },
     {
@@ -183,6 +225,12 @@
       "name": "Used2025AudiRS 3",
       "vin": "WUAGWCGY5SA909281",
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/0834f24b18cd.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2025FordF-150STX",
+      "vin": "1FTEW2LP6SFA80350",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/used/db431afdbf30.html",
       "condition": "used"
     },
     {
