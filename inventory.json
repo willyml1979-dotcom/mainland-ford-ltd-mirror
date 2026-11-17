@@ -1,6 +1,6 @@
 {
   "dealership": "Mainland Ford Ltd",
-  "generated_at": "2026-11-16T16:04:12",
+  "generated_at": "2026-11-16T18:58:37",
   "vehicle_count": 74,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -258,15 +258,15 @@
       "condition": "new"
     },
     {
-      "name": "New2026FordBronco SportBadlands",
-      "vin": "3FMCR9DA1TRF02087",
-      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/e4791764ff04.html",
+      "name": "New2026FordBronco SportBig Bend",
+      "vin": "3FMCR9BN9TRE04804",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/2a19c9b5f2c9.html",
       "condition": "new"
     },
     {
       "name": "New2026FordBronco SportBig Bend",
       "vin": "3FMCR9BN9TRE04804",
-      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/2a19c9b5f2c9.html",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/e81e5040bc15.html",
       "condition": "new"
     },
     {
@@ -277,32 +277,32 @@
     },
     {
       "name": "New2026FordBronco SportBig Bend",
+      "vin": "3FMCR9BN1TRF37296",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/052b86bc199b.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordBronco SportBig Bend",
       "vin": "3FMCR9BN6TRE97846",
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/6979c99e2f73.html",
       "condition": "new"
     },
     {
+      "name": "New2026FordBronco SportBig Bend",
+      "vin": "3FMCR9BN6TRE97846",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/5dd597e37b29.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordBronco SportBig Bend",
+      "vin": "3FMCR9BN8TRF41913",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/b7b45f429fba.html",
+      "condition": "new"
+    },
+    {
       "name": "New2026FordBronco SportOuter Banks",
-      "vin": "3FMCR9CN6TRE70614",
-      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/969d31e7e0b8.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026FordExplorerST-Line",
-      "vin": "1FMUK8KH3TGB66596",
-      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/89cda90aa15c.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026FordF-150Lariat",
-      "vin": "1FTFW5L8XTFB63313",
-      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/179223820730.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026FordF-150Lariat",
-      "vin": "1FTFW5L58TFC16872",
-      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/070e5bcb0291.html",
+      "vin": "3FMCR9CN5TRF30477",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/51b7c6871144.html",
       "condition": "new"
     },
     {
@@ -348,27 +348,9 @@
       "condition": "new"
     },
     {
-      "name": "New2026FordMaverickLARIAT",
-      "vin": "3FTTW8S36TRB42343",
-      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/e3346ffd26a5.html",
-      "condition": "new"
-    },
-    {
       "name": "New2026FordMaverickXL",
       "vin": "3FTTW8BA3TRB29158",
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/4f0d7b4cb4f2.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026FordMaverickXLT",
-      "vin": "3FTTW8H30TRB49943",
-      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/330569c66d05.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026FordMaverickXLT",
-      "vin": "3FTTW8J36TRB42716",
-      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/311b715bbaf9.html",
       "condition": "new"
     },
     {
@@ -378,21 +360,27 @@
       "condition": "new"
     },
     {
-      "name": "New2026FordMustangEcoBoost",
-      "vin": "1FA6P8TH3T5134729",
-      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/a7042d42de62.html",
-      "condition": "new"
-    },
-    {
       "name": "New2026FordMustangEcoBoost Premium",
       "vin": "1FA6P8TH2T5119784",
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/8e0112043dab.html",
       "condition": "new"
     },
     {
+      "name": "New2026FordMustangEcoBoost Premium",
+      "vin": "1FA6P8TH2T5119784",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/36fcd35513a1.html",
+      "condition": "new"
+    },
+    {
       "name": "New2026FordMustang Mach-EPremium",
       "vin": "3FMTK3SU5TMA24106",
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/5914bbbda839.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordMustang Mach-EPremium",
+      "vin": "3FMTK3SU5TMA24106",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/e30d7a3729dd.html",
       "condition": "new"
     },
     {
@@ -414,6 +402,18 @@
       "condition": "new"
     },
     {
+      "name": "New2026FordMustang Mach-EPremium",
+      "vin": "3FMTK3SU1TMA20215",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/8366a7d3ab01.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordMustang Mach-ESelect",
+      "vin": "3FMTK1SU6TMA21669",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/03a61e4139b3.html",
+      "condition": "new"
+    },
+    {
       "name": "New2026FordRangerLARIAT",
       "vin": "1FTER4KH7TLE54724",
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/7eb63b4f23e7.html",
@@ -421,20 +421,20 @@
     },
     {
       "name": "New2026FordRangerXLT",
+      "vin": "1FTER4HH4TLE47558",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/d2b26da23c91.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordRangerXLT",
+      "vin": "1FTER4HH5TLE54129",
+      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/e5cf87fdc65d.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordRangerXLT",
       "vin": "1FTER4HH0TLE53003",
       "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/0fecb300193f.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2027FordTransit Cargo Van",
-      "vin": "1FTBW2XG4VKA14632",
-      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/f13738d1bcc0.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2027FordTransit Cargo Van",
-      "vin": "1FTBR1C83VKA22091",
-      "url": "https://willyml1979-dotcom.github.io/mainland-ford-ltd-mirror/new/074ecda46935.html",
       "condition": "new"
     },
     {
